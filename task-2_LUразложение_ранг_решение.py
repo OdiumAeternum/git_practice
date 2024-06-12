@@ -8,7 +8,7 @@ A = np.array([[2, 1, 4], [3, 2, 1], [1, 3, 3]]).astype(float)
     
 print('A:')
 print(A)
-#print('Det(A) =', np.linalg.det(A))
+print('Det(A) =', np.linalg.det(A))
 print()
 
 #Векторы перестановок
